@@ -7,3 +7,5 @@ Yes they have!!!
 Is this going to be pull?
 
 Or is it going to stash?
+
+We can stash this
